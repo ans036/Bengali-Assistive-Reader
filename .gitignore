@@ -44,3 +44,6 @@ __pycache__/
 # Byte-compiled
 *.py[cod]
 *$py.class
+
+# Original nested project folder (contents moved to root)
+my-project 3/
