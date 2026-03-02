@@ -1,0 +1,46 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS artifacts
+__MACOSX/
+.DS_Store
+
+# Large binary / executable
+*.exe
+
+# Model weights and large model archives (too large for git)
+*.pth
+*.zip
+
+# Generated outputs
+outputs/
+tts_word_segments/
+
+# User uploads
+uploads/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Byte-compiled
+*.py[cod]
+*$py.class

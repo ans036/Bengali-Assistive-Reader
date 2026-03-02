@@ -1,0 +1,12 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+pillow==10.0.0
+pytesseract==0.3.10
+pydub==0.25.1
+TTS==0.17.6
+torch==2.0.1
+soundfile==0.12.1
+numpy==1.22.0
+scipy==1.11.2
+opencv-python-headless==4.8.0.76
